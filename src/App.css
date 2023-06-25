@@ -2,3 +2,7 @@
   text-align: center;
 }
 
+.ant-menu-item-selected {
+  background-color: white !important;
+  color: rgb(208, 0, 194) !important;
+}
